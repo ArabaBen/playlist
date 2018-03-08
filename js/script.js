@@ -49,13 +49,23 @@ var myPlayList = [
 
 // DOCUMENT READY FUNCTION
 $( document ).ready(function() {
-  
+ var mysong={
+ 	title: "BagBak"
+ 	artist:"Vince Staples"
+ 	album: "Big Fish Theory"
+ 	lenght: ""
+ 	genre: "hip hop"
+ 	
+ 
+ }
 
+var 
 
 
 });
 
 function displayList(){
+	img
 
 
   
@@ -68,7 +78,9 @@ function clearList(){
 }
 
 function addSong(){
- 
+	
   
   
 }
+
+

@@ -1,1 +1,30 @@
-
+body {
+    background: linear-gradient(-90deg,gray,darkgray);
+    padding: 50px;
+    border: 10px;
+}
+h1 {
+    color: white;
+    text-align: center;
+    font-style: oblique;
+    font-family: verdana;
+    font-size: 37px;
+}
+h2{
+    text-align: center;
+}
+h3{
+   text-align: center;
+}
+button{
+    border-color: darkgray;
+    background-color: transparent;
+    color: white;
+    font-weight: bold;
+    font-style: oblique;
+    font-size: 17px;
+}
+h4{
+    text-align: center;
+    
+}
